@@ -5,7 +5,7 @@ input::placeholder {
 }
 
 .hover{
-    color:black;
+    color: red;
 }
 .hover:hover{
     color:#7b45ea;
