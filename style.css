@@ -4,41 +4,41 @@ input::placeholder {
 
 }
 
-.hoverr{
-    color: black;
-}
-.hoverr:hover{
-    color:#7b45ea;
-}
-.hoverr1{
+.hover{
     color:black;
 }
-.hoverr1:hover{
+.hover:hover{
     color:#7b45ea;
 }
-.hoverr2{
+.hover1{
     color:black;
 }
-.hoverr2:hover{
+.hover1:hover{
     color:#7b45ea;
 }
-.hoverr3{
+.hover2{
     color:black;
 }
-.hoverr3:hover{
+.hover2:hover{
     color:#7b45ea;
 }
-.hoverr4{
+.hover3{
     color:black;
 }
-.hoverr4:hover{
+.hover3:hover{
+    color:#7b45ea;
+}
+.hover4{
+    color:black;
+}
+.hover4:hover{
     color:#7b45ea;
 }
 .preloader{
     position: fixed;
     width: 100%;
     height: 100%;
-    background-color: black;
+    background-color: white;
     z-index: 9999;
     text-align: center;
 }
